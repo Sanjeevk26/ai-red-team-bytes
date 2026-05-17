@@ -306,16 +306,3 @@ If not, rewrite it.
 
 ---
 
-## Final Takeaway
-
-Strong red teaming is not about clever prompts.  
-It is about **disciplined questioning**.
-
-Prompt smells help you avoid:
-
-- weak tests  
-- misleading results  
-- wasted effort  
-
-Avoiding them transforms prompt hacking into **professional adversarial evaluation**.
-
