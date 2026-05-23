@@ -268,8 +268,6 @@ so systems don’t answer them badly later.
 
 Red teaming evolved from battlefields to servers to language models.
 
-What changed was the surface.
-What stayed the same was the principle:
 
 **If you don’t try to break your system,  
 the world eventually will.**
